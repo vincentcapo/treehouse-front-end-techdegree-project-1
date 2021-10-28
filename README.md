@@ -1,2 +1,2 @@
-# treehouse-front-end-techdegree-project-1
- My first Front-End Techdegree project
+# Treehouse Front-end Techdegree Project 1
+ My first Front-end Techdegree project
